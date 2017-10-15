@@ -34627,7 +34627,6 @@ __webpack_require__(12);
 var emails_editor_html_1 = __webpack_require__(14);
 var EmailsEditor;
 (function (EmailsEditor) {
-    debugger;
     EmailsEditor.moduleName = "emailsEditor";
     var emailRegExp = /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
     function emailsEditor() {
